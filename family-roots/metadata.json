@@ -1,0 +1,6 @@
+{
+  "name": "Family Roots",
+  "description": "A modern offline-first genealogy application for family trees. Features interactive tree visualizations, relationship calculations, multi-generational search, timeline tracking, and full Amharic and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
